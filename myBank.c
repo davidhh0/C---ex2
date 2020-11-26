@@ -58,7 +58,7 @@ int main()
             break;
 
         default:
-            printf("Please enter function: O , B ,D , W , C , I , P , E \n");
+            printf("Invalid transaction type \n");
             break;
         }
     }
